@@ -267,9 +267,7 @@
 		},
 		methods: {
 			clickThis () {
-				console.log(this.isRouter)
 				this.isRouter = false;
-				console.log(this.isRouter)
 			}
 		},
 		created() {
