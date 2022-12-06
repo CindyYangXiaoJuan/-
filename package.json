@@ -24,7 +24,7 @@
     "@vue/cli-plugin-babel": "^3.9.0",
     "@vue/cli-service": "^3.9.0",
     "element-china-area-data": "^4.1.2",
-    "qs": "^6.9.0",
+    "qs": "^6.9.7",
     "vue-template-compiler": "^2.6.10"
   }
 }
